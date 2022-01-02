@@ -64,7 +64,7 @@
     "cors": "^2.8.5",
     "date-fns": "^2.23.0",
     "date-fns-tz": "^1.1.4",
-    "detect-browser": "^5.2.0",
+    "@monazilla-remnants/detect-browser": "^5.4.0",
     "dotenv": "^10.0.0",
     "formik": "^2.2.9",
     "immer": "^9.0.6",

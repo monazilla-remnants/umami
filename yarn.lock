@@ -1513,6 +1513,11 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz#87de7af9c231826fdd68ac7258f77c429e0e5fcf"
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
+"@monazilla-remnants/detect-browser@^5.4.0":
+  version "5.4.0"
+  resolved "https://npm.pkg.github.com/download/@monazilla-remnants/detect-browser/5.4.0/bf7ee717d5a58c62539a380c1cdc0453f61e70e2839f9fee816770ea514e7709#aaefb5d0063a38e920fd2e033cafbcb2243dcb40"
+  integrity sha512-ehV+HQ3qprjGxx3CDpKlx+i5oKK9ZbgNI6jJzH49i1QmTwjjy+21bqJQtpBr/8nbO6v1+VgGY+xtP/+Vb1zYnQ==
+
 "@napi-rs/triples@^1.0.3":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@napi-rs/triples/-/triples-1.0.3.tgz#76d6d0c3f4d16013c61e45dfca5ff1e6c31ae53c"
@@ -3388,11 +3393,6 @@ des.js@^1.0.0:
   dependencies:
     inherits "^2.0.1"
     minimalistic-assert "^1.0.0"
-
-detect-browser@^5.2.0:
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/detect-browser/-/detect-browser-5.2.1.tgz#b884f8d84e8f33bb874ffed10b4beea26133fcd1"
-  integrity sha512-eAcRiEPTs7utXWPaAgu/OX1HRJpxW7xSHpw4LTDrGFaeWnJ37HRlqpUkKsDm0AoTbtrvHQhH+5U2Cd87EGhJTg==
 
 detect-indent@^6.0.0:
   version "6.0.0"
