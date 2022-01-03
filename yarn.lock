@@ -1513,10 +1513,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz#87de7af9c231826fdd68ac7258f77c429e0e5fcf"
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
-"@monazilla-remnants/detect-browser@^5.4.0":
-  version "5.4.0"
-  resolved "https://npm.pkg.github.com/download/@monazilla-remnants/detect-browser/5.4.0/bf7ee717d5a58c62539a380c1cdc0453f61e70e2839f9fee816770ea514e7709#aaefb5d0063a38e920fd2e033cafbcb2243dcb40"
-  integrity sha512-ehV+HQ3qprjGxx3CDpKlx+i5oKK9ZbgNI6jJzH49i1QmTwjjy+21bqJQtpBr/8nbO6v1+VgGY+xtP/+Vb1zYnQ==
+"@monazilla-remnants/detect-browser@^5.4.1":
+  version "5.4.1"
+  resolved "https://npm.pkg.github.com/download/@monazilla-remnants/detect-browser/5.4.1/29310cfb0060fe573e95d21af34996a64f0aaddf0b9d84dc89dcc5880d6f02be#6811f9bc6165e2fa4ec1850ba39445f1c6d25faa"
+  integrity sha512-RsNIPQrgFTOQz8E7PKe2jkBfI12Sv1geEVFyjzwOYkPwcl90SiRznLnvIMddIoS8ewVmIsxFz2G/L5E1+wvXtg==
 
 "@napi-rs/triples@^1.0.3":
   version "1.0.3"
